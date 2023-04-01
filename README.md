@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/naman7bhargava](https://github.com/naman7bhargava)
 
-- 💬 Ask me about **Excel, Power BI, SQL, Python, Machine Learning, Natural Language Processing**
+- 💬 Ask me about **Excel, Power BI, SQL, Python, Machine Learning**
 
 - 📫 How to reach me **naman99bhargava@gmail.com**
 
